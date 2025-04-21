@@ -1,0 +1,2 @@
+#Specs
+During operation, the automatic regulation and control of heating temperature are achieved through the intelligent digital control instruments in the meter box, along with adjustment valves, pneumatic valves, and other electrical components working together automatically. The instrument control components and signal devices are all installed within the meter box.
