@@ -9,6 +9,6 @@
 4.4 Machinery layout diagram
 5.One-year warranty. Damage caused by abnormal operation and wear-and-tear parts are not included.
 6.Equipment operating environment conditions:
-	6.1Temperature: 10 ~ 40°C
+	6.1Temperature: 30 ~ 70°C
 	6.2Humidity: 40% to 95%
 	6.3Voltage: AC 3ψ 380V 50Hz +N +G

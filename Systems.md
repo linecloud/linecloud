@@ -1,2 +1,2 @@
 #Systems
-A vacuum-type soybean conveyor creates a vacuum in a container, generating negative pressure in the pipeline. This negative pressure sucks the soybeans into the pipeline and transfer them into the vacuum tank. From there, the soybeans are discharged into the soybean steam sooking tank.
+A vacuum-type soybean conveyor creates a vacuum in a container, generating negative pressure in the pipeline. This negative pressure sucks the soybeans into the pipeline and transfer them into the vacuum tank. From there, the soybeans are discharged into the soybean steam sooking 10tank.
